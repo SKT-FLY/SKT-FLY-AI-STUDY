@@ -162,3 +162,4 @@ cython_debug/
 
 .idea/
 programmers_cw/.idea/
+.DS_Store
